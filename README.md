@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Vantin San
 
-# Your Github username
+# VSan21-glitch
